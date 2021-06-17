@@ -1,0 +1,17 @@
+.frame-159 {
+  align-items: center;
+  display: flex;
+  height: 92px;
+  min-width: 335px;
+  padding: 0 24px;
+  position: relative;
+}
+.text {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  min-height: 28px;
+  min-width: 182px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
